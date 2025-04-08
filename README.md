@@ -1,4 +1,4 @@
-# Personal Expense Tracker
+# Finance Flow Tracker
 
 This Python-based Personal Expense Tracker application is designed to help users manage their finances effectively. It enables users to log, categorize, analyze, and visualize their expenses while staying within a monthly budget.
 
